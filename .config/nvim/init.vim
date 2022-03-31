@@ -487,3 +487,6 @@ nnoremap <silent> <C-Left> :KittyNavigateLeft<cr>
 nnoremap <silent> <C-Down> :KittyNavigateDown<cr>
 nnoremap <silent> <C-Up> :KittyNavigateUp<cr>
 nnoremap <silent> <C-Right> :KittyNavigateRight<cr>
+
+" gitui
+nmap ,m :term gitui<CR>
