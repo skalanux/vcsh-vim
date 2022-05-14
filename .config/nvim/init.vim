@@ -490,3 +490,4 @@ nnoremap <silent> <C-Right> :KittyNavigateRight<cr>
 
 " gitui
 nmap ,m :term gitui<CR>
+set mouse=a
